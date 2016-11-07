@@ -1,9 +1,9 @@
 package = "gonapps-url-query-parser"
-version = "1.0-1"
+version = "1.0-2"
 
 source = {
     url = "git://github.com/gonapps/gonapps-lua-url-query-parser",
-    tag = "v1.0-1"
+    tag = "v1.0-2"
 }
 
 description = {
