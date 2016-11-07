@@ -21,6 +21,6 @@ dependencies = {
 build = {
     type = "builtin",
     modules = {
-        ["gonapps.url.query"] = "src/gonapps/url/query/parser.lua"
+        ["gonapps.url.query.parser"] = "src/gonapps/url/query/parser.lua"
     }
 }
