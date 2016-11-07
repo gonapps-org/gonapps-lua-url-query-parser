@@ -13,9 +13,9 @@ $ sudo luarocks install gonapps-url-query-parser
 local queryParser = require "gonapps-url-query-parser"
 
 local parameters = {}
-queryParser.parse(url, parameters)
+queryParser.parse(queryString, parameters)
 
-local parameters2 = queryParser.parse(url)
+local parameters2 = queryParser.parse(queryString)
 ```
 ## License
 LGPLv3
