@@ -1,15 +1,15 @@
 package = "gonapps-url-query-parser"
-version = "1.0-3"
+version = "1.0-4"
 
 source = {
-    url = "git://github.com/gonapps/gonapps-lua-url-query-parser",
-    tag = "v1.0-3"
+    url = "git://github.com/gonapps-org/gonapps-lua-url-query-parser",
+    tag = "v1.0-4"
 }
 
 description = {
     summary = "An url query parser for lua.",
     detailed = [[]],
-    homepage = "http://github.com/gonapps/gonapps-lua-url-query-parser",
+    homepage = "http://github.com/gonapps-org/gonapps-lua-url-query-parser",
     license = "Mozilla Public License 2.0"
 }
 
